@@ -1,8 +1,10 @@
 
 # Mark Cuckson
-Mail: jobs@metax.dev
-## Profile
-I'm a software engineering leader currently delivering cloud first solutions using modern approaches to architecture and design within global finance and government institutions.
+## Software Engineering Lead
+*Mail: [jobs@metax.dev](mailto:jobs@metax.dev)*  
+*LinkedIn: [https://www.linkedin.com/in/mark-cuckson](https://www.linkedin.com/in/mark-cuckson)*  
+
+I'm a software engineering lead currently delivering cloud first solutions using modern approaches to architecture and design within global finance and government institutions.
 
 Over my career I've had the opportunity to work on a wide variety of technical challenges using an array of technologies, languages and frameworks. Focused mainly on backend development, I'm never afraid to go out of my comfort zone to develop new skills.
 
