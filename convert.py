@@ -10,7 +10,7 @@ with open('content/index.md', 'r') as f:
     text = f.read()
     html_fragment = markdown.markdown(text)
     
-with open('public/index.html', 'w') as f:
+with open('docs/index.html', 'w') as f:
     html = '''
     <html>
     <head>
