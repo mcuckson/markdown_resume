@@ -10,9 +10,9 @@ I enjoy leading projects, mentoring and building relationships just as much as t
 
 ## Technical Skills
 - Python (Flask, SQLAlchemy)
-- Javascript/Typescript (React, Express, Node)
+- JavaScript/Typescript (React, Express, Node)
 - C# (.net core)
-- AWS (Lambda, API Gateway, Cloudfront, S3, DocumentDB, DynamoDb)
+- AWS (Lambda, API Gateway, Cloudfront, S3, DocumentDb, DynamoDb)
 - Azure (Functions, App Service, Event Hub, Event Grid, APIM, CosmosDb)
 - SQL, MongoDb, Kafka, RabbitMQ, Redis
 - DevOps (Terraform, Azure DevOps, GitHub, Jenkins, Docker)
@@ -23,7 +23,7 @@ I enjoy leading projects, mentoring and building relationships just as much as t
 
 Working for a consultancy specialising in helping clients with their cloud adoption strategy I am responsible for shaping the way we deliver the software engineering elements of our portfolio.
 
-As a fast growing company I worked to develop our successful graduate program in order to fast-track talent from the end of their studies to being highly qualified and productive engineers.
+As a rapidly expanding company I worked to develop and lead our successful graduate program in order to fast-track talent from the end of their studies to being highly qualified and productive engineers.
 
 Day to day I'm involved in client engagements which has allowed me to deliver a varied set of solutions such as:
 

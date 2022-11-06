@@ -15,6 +15,8 @@ with open('docs/index.html', 'w') as f:
     <html>
     <head>
     <link rel="stylesheet" href="default.css"/>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <title>Mark Cuckson</title>
     </head>
     <body>{}</body>
     </html>
