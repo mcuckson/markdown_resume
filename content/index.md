@@ -29,9 +29,9 @@ As a rapidly expanding company I worked to develop and lead our successful gradu
 
 Day to day I'm involved in client engagements which has allowed me to deliver a varied set of solutions such as:
 
-- System integrations in Azure using Azure Functions, Event Grid & CosmosDb between Azure services and ServiceNow
-- A custom CMS using Git based workflows to promote documentation-as-code using markdown
 - A global Customer Data Management solution for a financial institution based around Java (Spring Boot), MongoDb and Kafka
+- Itegrating Azure services using Azure Functions, Event Grid, CosmosDb to surface findings against security compliance frameworks (e.g. NIST) into custom built UI and ServiceNow
+- A custom CMS using Git based workflows to promote documentation-as-code using markdown
 
 ### Cloud Architect - BT
 (August 2012 - December 2019)
