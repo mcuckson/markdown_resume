@@ -1,5 +1,4 @@
-
-# Mark Cuckson
+## Mark Cuckson
 ## Software Engineering Lead
 *Mail: [jobs@metax.dev](mailto:jobs@metax.dev)*  
 *LinkedIn: [https://www.linkedin.com/in/mark-cuckson](https://www.linkedin.com/in/mark-cuckson)*  

@@ -34,3 +34,13 @@ body {
 body > * {
   grid-column: 2;
 }
+h1, h2, h3, h4, h5, h6{
+  line-height: 0px; 
+}
+p {
+  line-height: 20px;   /* within paragraph */
+  margin-bottom: 5px; /* between paragraphs */
+  }
+li{
+  margin: 5px ;
+}
