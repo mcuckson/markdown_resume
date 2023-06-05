@@ -22,16 +22,18 @@ I enjoy leading projects, mentoring and building relationships just as much as t
 ## Experience
 ### Software Engineering Lead - Airwalk Reply
 (December 2019 - ) 
+Working for a consultancy specialising in helping clients with their cloud adoption strategy I am responsible for shaping the way we deliver the software engineering elements of our portfolio. 
 
-Working for a consultancy specialising in helping clients with their cloud adoption strategy I am responsible for shaping the way we deliver the software engineering elements of our portfolio.
+I engage with senior stakeholders within our client organisations to ensure we’re always doing the right thing when it come to software engineering & architecture. 
 
 As a rapidly expanding company I worked to develop and lead our successful graduate program in order to fast-track talent from the end of their studies to being highly qualified and productive engineers.
 
-Day to day I'm involved in client engagements which has allowed me to deliver a varied set of solutions such as:
+Through our engagements, I have led the development on a varied set of solutions such as:
 
+- A custom CMS using Git based workflows to promote documentation-as-code using markdown developed using React.js / Typescript and hosted using AWS serverless technologies
+- Payment mandate platform using AWS Lambda to handle a scale of multi-million payments per day
 - A global Customer Data Management solution for a financial institution based around Java (Spring Boot), MongoDb and Kafka
-- Itegrating Azure services using Azure Functions, Event Grid, CosmosDb to surface findings against security compliance frameworks (e.g. NIST) into custom built UI and ServiceNow
-- A custom CMS using Git based workflows to promote documentation-as-code using markdown
+- System integrations in Azure using Azure Functions, Event Grid & CosmosDb between Azure services and ServiceNow
 
 ### Cloud Architect - BT
 (August 2012 - December 2019)
